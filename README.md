@@ -4,29 +4,31 @@
 This repository contains an interactive **Excel-based Business Intelligence Dashboard** designed to analyze and visualize Super Store sales data.  
 The dashboard provides insights into sales performance, customer segments, and regional trends using slicers, KPIs, and multiple chart types.
 
+## Dashboard Preview
+![Super Store Sales Dashboard](https://github.com/Amit-DataDoc23/Super-Store-Sales-Dashboard/blob/0bceff3b9b7a4d9b4988f3e0a4e5b2dc3a7a691a/SuperStore%20Dashboard.png)
+
 ---
-- **(https://github.com/Amit-DataDoc23/Super-Store-Sales-Dashboard/blob/0bceff3b9b7a4d9b4988f3e0a4e5b2dc3a7a691a/SuperStore%20Dashboard.png)**  
-  - Slicers for **Region** and **Year** to filter insights dynamically.  
-  - Key Performance Indicators (KPIs):  
-    - Total Sales  
-    - Sales Average  
-    - Transactions  
-    - Total Quantity
----
+
 ## Features
 - **[Power Query Cleaning](ca://s?q=Explain_Power_Query_cleaning)**  
   - Handled missing values, duplicates, and inconsistent formats.  
   - Standardized column names and data types for consistency.  
 
- 
+- **[Interactive Dashboard](ca://s?q=Excel_dashboard_features)**  
+  - Slicers for **Region** and **Year** to filter insights dynamically.  
+  - Key Performance Indicators (KPIs):  
+    - Total Sales  
+    - Sales Average  
+    - Transactions  
+    - Total Quantity  
 
 - **[Visualizations](ca://s?q=Dashboard_visualizations)**  
   - Ship Mode Sales (Pie Chart)  
   - Region-wise Transactions (Donut Chart)  
   - Monthly Quantity Ordered (Line Chart)  
   - Top 5 Cities Sales-wise (Column Chart)  
-  - Category-wise Transactions (Bar Chart) 
-  - Consumer Type Quantity Ordered (Bar Chart)
+  - Category-wise Transactions ( Bar Chart)
+  - Consumer Type Quantity Ordered  ( Bar Chart)
 
 ---
 
