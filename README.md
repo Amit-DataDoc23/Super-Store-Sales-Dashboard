@@ -5,7 +5,7 @@ This repository contains an interactive **Excel-based Business Intelligence Dash
 The dashboard provides insights into sales performance, customer segments, and regional trends using slicers, KPIs, and multiple chart types.
 
 ---
-- **(https://github.com/Amit-DataDoc23/Super-Store-Sales-Dashboard/blob/0bceff3b9b7a4d9b4988f3e0a4e5b2dc3a7a691a/SuperStore%20Dashboard.png)**  
+- **Dashboard(https://github.com/Amit-DataDoc23/Super-Store-Sales-Dashboard/blob/0bceff3b9b7a4d9b4988f3e0a4e5b2dc3a7a691a/SuperStore%20Dashboard.png)**  
   - Slicers for **Region** and **Year** to filter insights dynamically.  
   - Key Performance Indicators (KPIs):  
     - Total Sales  
